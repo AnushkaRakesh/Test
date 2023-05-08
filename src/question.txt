@@ -1,1 +1,2 @@
-demo question
+a.Write a react code to create an mage slide, where user can view multiple images with next/previous buttons
+b. Write a react code todisplay a chechlist with multiple options that can select and the selectes optins are dynamically displayed on the screen
